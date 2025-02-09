@@ -1,4 +1,9 @@
 halooo ini first file saya
 ini text ke dua saya
 ini text ke tiga saya
+<<<<<<< HEAD
 tulisan saya
+=======
+
+tulisan dia
+>>>>>>> 8380e67 (Update lala.txt)
